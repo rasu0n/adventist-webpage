@@ -1,0 +1,10 @@
+main {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+body {
+    background-color: black;
+}
+h1 {
+    font-weight: 300;
+}
